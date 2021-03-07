@@ -1,3 +1,3 @@
 # Add your code here
-class Dog 
+class Dog(x)
 end
