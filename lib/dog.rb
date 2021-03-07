@@ -1,6 +1,6 @@
 # Add your code here
 class Dog
-  ALL = []
+  @@ALL = []
   
   def initialize(dog)
     @dog = dog
