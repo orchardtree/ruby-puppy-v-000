@@ -8,14 +8,14 @@ class Dog
   end
   
   def self.all
-    @@ALL
+    @@all
   end
   
   def self.clear_all
-    @@ALL.clear
+    @@all.clear
   end
   
   def self.print_all
-    print @@ALL
+    print @@all
   end
 end
